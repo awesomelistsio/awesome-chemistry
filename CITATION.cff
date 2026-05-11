@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Chemistry"
+abstract: "A curated list of tools, databases, educational resources, research papers, software, datasets, and open-source projects related to chemistry and chemical sciences."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-chemistry"
+keywords:
+  - chemistry
+  - chemical sciences
+  - molecular modeling
+  - computational chemistry
+  - organic chemistry
+  - biochemistry
+  - chemical engineering
+  - scientific computing
+  - research
+  - awesome list
