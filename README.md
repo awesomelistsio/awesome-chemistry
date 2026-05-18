@@ -121,6 +121,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Chem LibreTexts](https://chem.libretexts.org/) – Open-access chemistry textbooks and learning modules.
 - [MIT OpenCourseWare – Chemistry](https://ocw.mit.edu/courses/chemistry/) – University-level chemistry courses.
 - [Khan Academy Chemistry](https://www.khanacademy.org/science/chemistry) – Beginner-friendly chemistry lessons.
+- [Learro](https://learro.com/) – Free AP Chemistry study guides, practice exams, and formula sheets.
+- [Chesser Resources](https://chesserresources.com.au/new/) – Free document-sharing platform with chemistry notes and exam papers. Free signup required.
 
 ### Guides
 - [Organic Chemistry Portal](https://www.organic-chemistry.org/) – Reference materials and reaction guides.
