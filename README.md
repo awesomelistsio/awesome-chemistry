@@ -59,6 +59,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CDK (Chemistry Development Kit)](https://cdk.github.io/) – Java library for structural cheminformatics.
 - [DeepChem](https://deepchem.io/) – Machine learning toolkit for chemistry and drug discovery.
 - [KNIME Analytics Platform](https://www.knime.com/) – Visual workflow tool with strong cheminformatics extensions.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) – Stage-based evaluation pipeline for generative molecular design, docking, pose validation, and reporting.
+- [Matcha](https://github.com/LigandPro/Matcha) – Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking.
+- [Bento](https://github.com/LigandPro/Bento) – Reproducible protein-ligand docking benchmark with annotation, pocket similarity, and HPC workflows.
+- [posecheck-fast](https://github.com/LigandPro/posecheck-fast) – High-throughput docking pose validation with symmetry-corrected RMSD and lightweight clash filters.
 
 ## Quantum Chemistry
 
@@ -114,6 +118,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Jmol](http://jmol.sourceforge.net/) – Java-based viewer for chemical structures.
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/) – Visualization tool for molecular dynamics simulations.
 - [Matplotlib](https://matplotlib.org/) – Python plotting library commonly used in chemistry research.
+- [Burrete](https://github.com/SergeiNikolenko/Burrete) – macOS menu bar app and Quick Look extension for molecular previews with Mol* 3D and RDKit grids.
 
 ## Learning Resources
 
