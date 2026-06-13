@@ -59,6 +59,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CDK (Chemistry Development Kit)](https://cdk.github.io/) – Java library for structural cheminformatics.
 - [DeepChem](https://deepchem.io/) – Machine learning toolkit for chemistry and drug discovery.
 - [KNIME Analytics Platform](https://www.knime.com/) – Visual workflow tool with strong cheminformatics extensions.
+- [Bento](https://github.com/LigandPro/Bento) – Reproducible protein-ligand docking benchmark with annotation, pocket similarity, and HPC workflows.
 
 ## Quantum Chemistry
 
