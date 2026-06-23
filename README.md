@@ -59,8 +59,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CDK (Chemistry Development Kit)](https://cdk.github.io/) – Java library for structural cheminformatics.
 - [DeepChem](https://deepchem.io/) – Machine learning toolkit for chemistry and drug discovery.
 - [KNIME Analytics Platform](https://www.knime.com/) – Visual workflow tool with strong cheminformatics extensions.
-- [Matcha](https://github.com/LigandPro/Matcha) – Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking.
 - [Bento](https://github.com/LigandPro/Bento) – Reproducible protein-ligand docking benchmark with annotation, pocket similarity, and HPC workflows.
+- [HEDGEHOG](https://github.com/LigandPro/hedgehog) – Stage-based evaluation pipeline for generative molecular design, docking, pose validation, and reporting.
+- [Matcha](https://github.com/LigandPro/Matcha) – Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking.
 
 ## Quantum Chemistry
 
